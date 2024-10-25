@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    background: #2C2D33;
+    width: 430px;
+    border-radius: 6px;
+}
+
+.wrapper h2{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 18.75px;
+    color: #828282;
+    padding-top: 28px;
+    padding-left: 45px;
+}
+.wrapper h1{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 46.88px;
+    letter-spacing: -0.0375em;
+    text-align: left;
+    padding-top: 4px;
+    padding-left: 45px;
+    color: #fff
+}
+.wrapper .Secondary-text{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.41px;
+    text-align: left;
+    color: #fff;
+    padding-top: 4px;
+    padding-left: 45px;
+    padding-bottom: 27px;
+}
+.wrapper p{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14.52px;
+    color: #fff;
+}
+.wrapper img{
+    padding-top: 18px;
+    padding-left: 30px;
+}
+.wrapper .line{
+    height: 2px;
+    background-color: #4F4F4F;
+}
+.wrapper .underblock{
+    display: flex;
+    margin-left: 72px;
+    margin-top: 40px;
+    padding-bottom: 31px;
+}
+.wrapper .underblock .blue-block .blue{
+    width: 21px;
+    height: 8px;
+    background: #165BAA;
+    margin-right: 9px;
+}
+.wrapper .underblock .purple-block .purple{
+    width: 21px;
+    height: 8px;
+    background: #A155B9;
+    margin-right: 9px;
+}
+.wrapper .underblock .pink-block .pink{
+    width: 21px;
+    height: 8px;
+    background: #F765A3;
+    margin-right: 9px;
+}
+.wrapper .underblock .color-block{
+    display: flex;
+    align-items: center;
+    margin-right: 13px;
+}
